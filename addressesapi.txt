@@ -22,3 +22,7 @@
 47.91.31.235:2096#JP
 47.245.12.38:2096#JP
 47.245.13.93:2083#JP
+let addressesapi = [
+	'https://raw.githubusercontent.com/cmliu/WorkerVless2sub/main/addressesapi.txt',
+	'https://addressesapi.090227.xyz/CloudFlareYes',
+];
